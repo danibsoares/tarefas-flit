@@ -1,0 +1,4 @@
+Cliente,Atendimento,Tarefa,Assunto,Existe paliativo,Descrição do paliativo
+731886,60101,FM-3729,Cliente deseja que o sistema tenha uma opção de aprovação e desaprovação de B.H ou H.E,Não,
+737939,56587,FM-3557,Correção do limite de usuários para reconhecimento facial,Não,
+1874,68421,FA-541,Falha na captura da imagem pelo Flit App ao usar o reconhecimento facial,Sim,Habilitar o modo de contingência da câmera > fechar o app e abrir novamente
